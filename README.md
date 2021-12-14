@@ -13,14 +13,14 @@ Root files for 2018RR and 2017UL are kept in data_files/2021_11_09 that includes
 methods in tools/ntuple_meta.py converts these root files to pandas data frame. 
 
 the python wrapper requires the following packages:
-numpy
-pandas 
-matplotlib
-hyperopt
-xgboost
-sklearn
-seaborn
-uproot3
+- numpy
+- pandas 
+- matplotlib
+- hyperopt
+- xgboost
+- sklearn
+- seaborn
+- uproot3
 
 
 
