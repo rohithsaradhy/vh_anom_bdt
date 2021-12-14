@@ -10,7 +10,7 @@ The feature set is kept in tools/bdt_vars.py and the bdt_trainer wrapper is kept
 
 Root files for 2018RR and 2017UL are kept in data_files/2021_11_09 that includes WH and ZH leptonic tags
 
-tools/ntuple_meta.py converts these root files to pandas data frame. 
+methods in tools/ntuple_meta.py converts these root files to pandas data frame. 
 
 the python wrapper requires the following packages:
 numpy
